@@ -7,8 +7,8 @@
 #define ECHO    4
 
 MDNSResponder mdns;
-const char* ssid = "Parth iphone"; // your connection name
-const char* password = "parth1555"; // your connection password
+const char* ssid = "abcdefgh"; // your connection name
+const char* password = "xyz12345"; // your connection password
 String threshold;
 long duration, distance;
 
