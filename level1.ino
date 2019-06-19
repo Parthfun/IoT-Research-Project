@@ -7,9 +7,9 @@
 #define ECHO    4
 
 String threshold;
-const char* ssid = "Parth iphone";
+const char* ssid = "abcdefgh";
 
-const char* password = "parth1555";
+const char* password = "xyz12345";
 int ledPin = D1; // GPIO13
 WiFiServer server(80);
 //ESP8266WebServer server(80);
