@@ -3,8 +3,8 @@
 #include <ESP8266WebServer.h>
 #include <ESP8266mDNS.h>
 MDNSResponder mdns;
-const char* ssid = "Parth iphone"; // your connection name
-const char* password = "parth1555"; // your connection password
+const char* ssid = "abcdefgh"; // your connection name
+const char* password = "xyz12345"; // your connection password
 ESP8266WebServer server(80);
 int gpio1_pin = D1;  // D4 of nodemcu
 int gpio2_pin = D2; // D7 of nodemcu
